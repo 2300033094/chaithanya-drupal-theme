@@ -1,0 +1,30 @@
+
+body {
+    font-family: 'Segoe UI', sans-serif;
+    background: #eef2f3;
+    margin: 0;
+    padding: 0;
+}
+header, footer {
+    background-color: #005f73;
+    color: white;
+    text-align: center;
+    padding: 1rem 0;
+}
+main {
+    display: flex;
+    gap: 2rem;
+    padding: 2rem;
+}
+aside {
+    width: 25%;
+    background-color: #94d2bd;
+    padding: 1rem;
+    border-radius: 8px;
+}
+article {
+    width: 75%;
+    background: white;
+    padding: 1.5rem;
+    border-radius: 8px;
+}

@@ -1,0 +1,14 @@
+
+name: Chaithanya Theme
+type: theme
+description: 'A unique Drupal 10 theme created for FOSSEE Fellowship 2025'
+package: Custom
+core_version_requirement: ^10
+base theme: stable
+libraries:
+  - chaithanya_theme/global-styling
+regions:
+  header: Header
+  sidebar: Sidebar
+  content: Main Content
+  footer: Footer
